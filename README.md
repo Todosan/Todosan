@@ -1,5 +1,13 @@
-## Hi there 👋
+Hi there 👋 I'm @Todosan (Duc Le).
 
+I'm a software developer from Auckland, New Zealand
+
+I'm currently a student at MissionReady working towards my Level 5 full-stack certificate.
+
+You can find me on:
+
+- [LinkedIn](https://www.linkedin.com/in/duc-an-le-670374348/) 
+- [GitHub as @Todosan (here)](http://github.com/todosan)
 <!--
 **Todosan/Todosan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
