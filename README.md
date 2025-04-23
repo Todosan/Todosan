@@ -2,7 +2,7 @@ Hi there 👋 I'm @Todosan (Duc Le).
 
 I'm a software developer from Auckland, New Zealand
 
-I'm currently a student at MissionReady working towards my Level 5 full-stack certificate.
+I recently completed Diploma in Full-stack Development and internship.
 
 You can find me on:
 
